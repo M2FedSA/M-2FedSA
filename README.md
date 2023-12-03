@@ -1,6 +1,6 @@
 # M $^2$ FedSA: Multimodal Federated Learning via Model Splitting and Adapting
 
- < img src="overview.png" width="720" height="460" />
+ < img src="overview.jpg" width="720" height="460" />
 
  This repository contains the main official code for the method M $^2$ FedSA presented in paper: _M $^2$ FedSA: Multimodal Federated Learning via Model Splitting and Adapting_, the complete code is under cleaning.
 
